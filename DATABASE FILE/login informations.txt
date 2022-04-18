@@ -34,8 +34,8 @@ sbm
 
 admin
 --------
-administrator
-administrator
+admin
+admin
 
 
 
