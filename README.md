@@ -1,2 +1,1 @@
-# SBMS
-For testing
+index.php
